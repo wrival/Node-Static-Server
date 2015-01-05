@@ -1,0 +1,1 @@
+Node server for html and images, etc, while keeping things private.
